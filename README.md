@@ -584,6 +584,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go. Cross platform.
 * [walk](https://github.com/lxn/walk) - Windows application library kit for Go.
 * [webview](https://github.com/zserge/webview) - Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux).
+* [go-astiectron] (https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron) (Windows / MacOS / Linux)
+
 
 *Interaction*
 
